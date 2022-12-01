@@ -7,4 +7,5 @@
 ### Todoist
 - Нет напоминаний 
 - Синхронизация с гугл календарём
-![image](https://user-images.githubusercontent.com/87380272/205040027-48d7e75c-9b1c-4ea7-938c-a868decf19de.png)
+![image](https://user-images.githubusercontent.com/87380272/205040076-c53871fa-2577-488f-8854-5ff79f867df7.png)
+
