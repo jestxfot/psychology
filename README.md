@@ -9,6 +9,8 @@ https://4brain.ru/blog
 https://www.sciencealert.com
 <br>
 https://www.nature.com/news
+<br>
+https://www.scientificamerican.com
 
 ### IT
 https://techxplore.com
