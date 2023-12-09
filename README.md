@@ -3,6 +3,8 @@ https://psych.substack.com
 <br>
 https://www.verywellmind.com
 <br>
+https://skeptic.com.ru
+<br>
 https://4brain.ru/blog
 
 ### Наука
