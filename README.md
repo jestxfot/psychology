@@ -7,6 +7,8 @@ https://4brain.ru/blog
 
 ### Наука
 https://www.sciencealert.com
+<br>
+https://www.nature.com/news
 
 ### IT
 https://techxplore.com
