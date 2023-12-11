@@ -6,6 +6,8 @@ https://www.verywellmind.com
 https://skeptic.com.ru
 <br>
 https://4brain.ru/blog
+<br>
+https://n-e-n.ru
 
 ### Наука
 https://www.sciencealert.com
