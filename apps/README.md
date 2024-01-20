@@ -20,3 +20,7 @@
 
 ## TwosApp
 ![image](https://github.com/jestxfot/psychology/assets/87380272/04678868-6d1e-4ebd-9539-01260d6fcadd)
+
+
+## [AnyType](https://anytype.io)
+![image](https://github.com/jestxfot/psychology/assets/87380272/d40ea026-2014-42dd-a788-813f6a7ae726)
