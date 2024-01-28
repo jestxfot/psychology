@@ -24,3 +24,7 @@
 
 ## [AnyType](https://anytype.io)
 ![image](https://github.com/jestxfot/psychology/assets/87380272/d40ea026-2014-42dd-a788-813f6a7ae726)
+
+### NirvanaHQ
+![image](https://github.com/jestxfot/psychology/assets/87380272/65d96d6d-6323-47e7-b0d8-2d7d6b5ec3d5)
+
