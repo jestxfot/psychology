@@ -6,3 +6,4 @@
 ### obsidian.md
 
 ## Based on blocks
+### logseq
