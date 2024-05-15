@@ -7,3 +7,6 @@
 
 ## Based on blocks
 ### logseq
+
+## Anytype
+Amazing app combining: Notion pages and databases + Obsidian notes
